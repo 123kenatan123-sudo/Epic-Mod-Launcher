@@ -1,0 +1,15 @@
+{
+  "name": "Каталог модов Epic Mod Launcher",
+  "mods": [
+    {
+      "id": "discord.1573101613046960218",
+      "name": "Test mod",
+      "version": "2026.11.19",
+      "author": "Kenatan777 хайпожорчик",
+      "description": "test",
+      "threadUrl": "https://discord.com/channels/1566032190062727399/1573101613046960218",
+      "url": "https://github.com/123kenatan123-sudo/Epic-Mod-Launcher/releases/download/catalog-assets/mod_1573101613046960218_1573101613332037673_EpicModFix1.2.zip",
+      "file": "EpicModFix1.2.zip"
+    }
+  ]
+}
